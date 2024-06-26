@@ -1,0 +1,301 @@
+{
+  "baños": [
+    {
+      "id": 1,
+      "location": "Cabotaje",
+      "sector": "Hall",
+      "number": 101,
+      "type": "Baño de damas"
+    },
+    {
+      "id": 2,
+      "location": "Cabotaje",
+      "sector": "Hall",
+      "number": 102,
+      "type": "Baño de caballeros"
+    },
+    {
+      "id": 3,
+      "location": "Cabotaje",
+      "sector": "Hall",
+      "number": 103,
+      "type": "Baño de discapacitados"
+    },
+    {
+      "id": 4,
+      "location": "Cabotaje",
+      "sector": "Hall",
+      "number": 104,
+      "type": "Cambiador de bebe"
+    },
+
+    {
+      "id": 5,
+      "location": "Cabotaje",
+      "sector": "Embarque",
+      "number": 201,
+      "type": "Baño de mujeres"
+    },
+    {
+      "id": 6,
+      "location": "Cabotaje",
+      "sector": "Embarque",
+      "number": 202,
+      "type": "Baño de caballeros"
+    },
+    {
+      "id": 7,
+      "location": "Cabotaje",
+      "sector": "Embarque",
+      "number": 203,
+      "type": "Baño de discapacitados"
+    },
+
+    {
+      "id": 8,
+      "location": "Cabotaje",
+      "sector": "Embarque",
+      "number": 204,
+      "type": "Cambiador de bebe"
+    },
+
+    {
+      "id": 9,
+      "location": "Cabotaje",
+      "sector": "Embarque",
+      "number": 205,
+      "type": "Baño de damas"
+    },
+
+    {
+      "id": 10,
+      "location": "Cabotaje",
+      "sector": "Embarque",
+      "number": 206,
+      "type": "Baño de caballeros"
+    },
+
+    {
+      "id": 11,
+      "location": "Cabotaje",
+      "sector": "Embarque",
+      "number": 207,
+      "type": "Baño de discapacitados"
+    },
+
+    {
+      "id": 12,
+      "location": "Cabotaje",
+      "sector": "Embarque",
+      "number": 208,
+      "type": "Cambiador de bebe"
+    },
+
+    {
+      "id": 13,
+      "location": "Cabotaje",
+      "sector": "Arribos",
+      "number": 301,
+      "type": "Baño de damas"
+    },
+
+    {
+      "id": 14,
+      "location": "Cabotaje",
+      "sector": "Arribos",
+      "number": 302,
+      "type": "Baño de caballeros"
+    },
+
+    {
+      "id": 15,
+      "location": "Cabotaje",
+      "sector": "Arribos",
+      "number": 303,
+      "type": "Baño de discapacitados"
+    },
+
+    {
+      "id": 16,
+      "location": "Internacional",
+      "sector": "Hall",
+      "number": 401,
+      "type": "Baño de damas"
+    },
+
+    {
+      "id": 17,
+      "location": "Internacional",
+      "sector": "Hall",
+      "number": 402,
+      "type": "Baño de caballeros"
+    },
+
+    {
+      "id": 18,
+      "location": "Internacional",
+      "sector": "Hall",
+      "number": 403,
+      "type": "Baño de discapacitados"
+    },
+
+    {
+      "id": 19,
+      "location": "Internacional",
+      "sector": "Hall",
+      "number": 404,
+      "type": "Cambiador de bebe"
+    },
+
+    {
+      "id": 20,
+      "location": "Internacional",
+      "sector": "Embarque",
+      "number": 501,
+      "type": "Baño de damas"
+    },
+
+    {
+      "id": 21,
+      "location": "Internacional",
+      "sector": "Embarque",
+      "number": 502,
+      "type": "Baño de caballeros"
+    },
+
+    {
+      "id": 22,
+      "location": "Internacional",
+      "sector": "Embarque",
+      "number": 503,
+      "type": "Baño de damas"
+    },
+
+    {
+      "id": 23,
+      "location": "Internacional",
+      "sector": "Embarque",
+      "number": 504,
+      "type": "Cambiador de bebe"
+    },
+
+    {
+      "id": 24,
+      "location": "Internacional",
+      "sector": "Arribos",
+      "number": 601,
+      "type": "Baño de damas"
+    },
+
+    {
+      "id": 25,
+      "location": "Internacional",
+      "sector": "Arribos",
+      "number": 602,
+      "type": "Baño de caballeros"
+    },
+
+    {
+      "id": 26,
+      "location": "Internacional",
+      "sector": "Arribos",
+      "number": 603,
+      "type": "Baño de discapacitados"
+    },
+    {
+      "id": 27,
+      "location": "Internacional",
+      "sector": "Arribos",
+      "number": 604,
+      "type": "Cambiador de bebe"
+    },
+
+    {
+      "id": 28,
+      "location": "Internacional",
+      "sector": "Arribos",
+      "number": 605,
+      "type": "Baño de damas"
+    },
+
+    {
+      "id": 29,
+      "location": "Internacional",
+      "sector": "Arribos",
+      "number": 606,
+      "type": "Baño de caballeros"
+    },
+
+    {
+      "id": 30,
+      "location": "Internacional",
+      "sector": "Arribos",
+      "number": 607,
+      "type": "Baño de caballeros"
+    },
+
+    {
+      "id": 31,
+      "location": "Planta Alta",
+      "sector": "Hall",
+      "number": 701,
+      "type": "Baño de damas"
+    },
+
+    {
+      "id": 32,
+      "location": "Planta Alta",
+      "sector": "Hall",
+      "number": 702,
+      "type": "Baño de caballeros"
+    },
+
+    {
+      "id": 33,
+      "location": "Planta Alta",
+      "sector": "Hall",
+      "number": 703,
+      "type": "Baño de discapacitados"
+    },
+
+    {
+      "id": 34,
+      "location": "Planta Alta",
+      "sector": "Hall",
+      "number": 704,
+      "type": "Cambiador de bebe"
+    },
+
+    {
+      "id": 35,
+      "location": "Overside",
+      "sector": "Psa",
+      "number": 801,
+      "type": "Baño de damas"
+    },
+
+    {
+      "id": 36,
+      "location": "Overside",
+      "sector": "Psa",
+      "number": 802,
+      "type": "Baño de caballeros"
+    },
+
+    {
+      "id": 37,
+      "location": "Overside",
+      "sector": "Aerolineas",
+      "number": 803,
+      "type": "Baño de damas"
+    },
+
+    {
+      "id": 38,
+      "location": "Overside",
+      "sector": "Aerolineas",
+      "number": 804,
+      "type": "Baño de caballeros"
+    }
+  ]
+}
