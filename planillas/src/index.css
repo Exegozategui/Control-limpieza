@@ -1,7 +1,13 @@
 /* App.css */
+*{ padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+;
+}
+
 body {
-  background-color: #f8f9fa;
-  font-family: Arial, sans-serif;
+ background-color: #555555;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow',;
 }
 
 h1, h2 {
@@ -38,4 +44,26 @@ button {
   display: flex;
   justify-content: center;
   margin-top: 20px;
+ 
+}
+
+.card {
+  border-radius: 15px; 
+}
+
+.card-title {
+  font-size: 2.5rem; 
+  font-weight: 700; 
+}
+
+.card-text {
+  font-size: 1.25rem; 
+}
+
+.lead {
+  font-weight: 500; 
+}
+
+.shadow-lg {
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important; 
 }

@@ -1,4 +1,4 @@
-// Header.js
+
 import React from "react";
 import { Navbar, Nav, NavDropdown } from "react-bootstrap";
 import { Link } from "react-router-dom";
@@ -9,12 +9,12 @@ const Header = () => {
     <Navbar
       expand="lg"
       className="bg-body-tertiary"
-      bg="dark"
+      bg="primary"
       data-bs-theme="dark"
     >
       <Container>
         <Navbar.Brand as={Link} to="/">
-          Home
+          Aeropuertos Argentina
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

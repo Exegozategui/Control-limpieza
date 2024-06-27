@@ -1,9 +1,10 @@
-// Tabla.js
 import React, { useState } from 'react';
 import Modal from '../modal/index';
 import Formulario from '../formulario/index';
 import Paginacion from '../paginacion/index';
 import { Button, Table, Container } from 'react-bootstrap';
+
+import { FaUser, FaBroom, FaToiletPaper, FaSoap, FaRegComment, FaClock } from 'react-icons/fa'; // Import icons
 
 const Tabla = ({ registrosProp = [] }) => {
   const [registros, setRegistros] = useState(registrosProp);
@@ -27,7 +28,7 @@ const Tabla = ({ registrosProp = [] }) => {
 
   return (
     <Container>
-      <h2 className="text-center mt-3">Tabla de Registros</h2>
+      
       <Button variant="primary" onClick={() => setModalAbierto(true)} className="mb-3">
         Agregar Registro
       </Button>
@@ -39,12 +40,12 @@ const Tabla = ({ registrosProp = [] }) => {
       <Table striped bordered hover responsive className="text-center">
         <thead>
           <tr>
-            <th>Usuario</th>
-            <th>Acción</th>
-            <th>Papel</th>
-            <th>Jabón</th>
-            <th>Observaciones</th>
-            <th>Hora</th>
+            <th><FaUser /> Usuario</th>
+            <th><FaBroom /> Acción</th>
+            <th><FaToiletPaper /> Papel</th>
+            <th><FaSoap /> Jabón</th>
+            <th><FaRegComment /> Observaciones</th>
+            <th><FaClock /> Hora</th>
           </tr>
         </thead>
         <tbody>
