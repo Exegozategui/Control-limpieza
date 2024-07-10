@@ -46,8 +46,8 @@ const Header = () => {
                 Hall Planta Alta
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link as={Link} to="/Overside">
-              Overside
+            <Nav.Link as={Link} to="/Oversize">
+              Oversize
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>

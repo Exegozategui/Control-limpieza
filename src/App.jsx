@@ -10,7 +10,7 @@ import Hallinter from "./page/Hallinter ";
 import Hallpa from "./page/Hallpa";
 import Home from "./page/Home";
 
-import Overside from "./page/Overside";
+import Oversize from "./page/Oversize";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const router = createBrowserRouter([
@@ -26,7 +26,7 @@ const router = createBrowserRouter([
       { path: "/hallcabo", element: <Hallcabo /> },
       { path: "/hallinter", element: <Hallinter /> },
       { path: "/hallpa", element: <Hallpa /> },
-      { path: "/overside", element: <Overside /> },
+      { path: "/oversize", element: <Oversize /> },
     ],
   },
 ]);

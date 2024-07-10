@@ -3,7 +3,7 @@ import Tabla from '../componentes/tabla/index';
 import Pagination from '../componentes/paginacion/index';
 import banosData from '../data.json'; 
 import { Row, Col } from "react-bootstrap";
-const Overside = () => {
+const Oversize = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const [banosPorPagina] = useState(1);
 
@@ -45,4 +45,4 @@ const Overside = () => {
   );
 };
 
-export default Overside;
+export default Oversize;
